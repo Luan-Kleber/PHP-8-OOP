@@ -29,4 +29,13 @@ $laranja->cor = 'laranja';
 $laranja->peso = '125';
 
 echo $laranja->apresentar_fruto();
+
+echo "\n";
+
+$amora = new Fruto();
+$amora->nome = 'Amora';
+$amora->cor = 'vermelha';
+$amora->peso = '85';
+
+echo $amora->apresentar_fruto();
 ?>
