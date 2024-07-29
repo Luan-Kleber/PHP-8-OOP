@@ -3,7 +3,7 @@
 // ACESS MOFIFIERS
 
 /*
-    Então qual pe a importância dos Acess Modifiers em uma classe?
+    Então qual é a importância dos Acess Modifiers em uma classe?
 
     Cenaŕio Um:
         Imagian que queres que a definição da propriedade $nome não possa ser direta (pública).
